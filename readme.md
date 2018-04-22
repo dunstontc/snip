@@ -2,12 +2,24 @@
 [![GitHub issues](https://img.shields.io/github/issues/dunstontc/snip.svg)](https://github.com/dunstontc/snip/issues)
 [![License](https://img.shields.io/github/license/dunstontc/snip.svg)](https://github.com/dunstontc/snip/blob/master/LICENSE)
 
+
 ## Snippets
+- [**TextMate Snippets**](http://manual.macromates.com/en/snippets)
+
+### Atom
+- [Atom Flight Manual » Snippets](https://flight-manual.atom.io/using-atom/sections/snippets/)
+- [atom/snippets](https://github.com/atom/snippets)
+- [atom/language-html//snippets](https://github.com/atom/language-html/blob/master/snippets/language-html.cson)
+- [atom/language-javascript//snippets](https://github.com/atom/language-javascript/blob/master/snippets/language-javascript.cson)
+
+### Emacs
+- [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet)
+- [emacswiki - Yasnippet](https://www.emacswiki.org/emacs/Yasnippet)
 
 ### Sublime
 - [Extending Sublime Text » Snippets](http://docs.sublimetext.info/en/latest/extensibility/snippets.html)
-  - [Meduim - Sublime3 Snippets](https://medium.freecodecamp.org/a-guide-to-preserving-your-wrists-with-sublime-text-snippets-7541662a53f2)
-  - [babel/babel-sublime-snippets](https://github.com/babel/babel-sublime-snippets)
+- [Meduim - Sublime3 Snippets](https://medium.freecodecamp.org/a-guide-to-preserving-your-wrists-with-sublime-text-snippets-7541662a53f2)
+- [babel/babel-sublime-snippets](https://github.com/babel/babel-sublime-snippets)
 
 ### Vim
 - [vim snippet engines](http://vim-wiki.mawercer.de/wiki/topic/text-snippets-skeletons-templates.html)
@@ -18,15 +30,16 @@
     - [Shougo/neosnippet-snippets](https://github.com/Shougo/neosnippet-snippets)
     - [Shougo/deoppet.nvim](https://github.com/Shougo/deoppet.nvim)
 
-### Atom
-- [Atom Flight Manual » Snippets](https://flight-manual.atom.io/using-atom/sections/snippets/)
-- [atom/snippets](https://github.com/atom/snippets)
-  - [atom/language-html//snippets](https://github.com/atom/language-html/blob/master/snippets/language-html.cson)
-  - [atom/language-javascript//snippets](https://github.com/atom/language-javascript/blob/master/snippets/language-javascript.cson)
+### VSCode
+- [Creating your own Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+  - [xabikos/vscode-react](https://github.com/xabikos/vscode-react)
 
-### Others
-- [TextMate Snippets](http://manual.macromates.com/en/snippets#snippets)
+### Other
 - [Emmet Snippets](https://docs.emmet.io/customization/snippets/)
+- TODO: Visual Studio
+- TODO: Xcode
+- TODO: JetBrains Editors
+
 
 ## [License](https://github.com/dunstontc/snip/blob/master/LICENSE)
 
