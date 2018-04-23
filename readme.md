@@ -40,6 +40,7 @@
 
 ### Other
 - [Emmet Snippets](https://docs.emmet.io/customization/snippets/)
+- [Alfred3 Snippets](https://www.alfredapp.com/help/features/snippets/)
 - TODO: Visual Studio
 - TODO: Xcode
 - TODO: JetBrains Editors
