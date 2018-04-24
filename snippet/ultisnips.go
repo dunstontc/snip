@@ -34,12 +34,12 @@ func getBytes(file string) []byte {
 // // NewFile news up a new File.
 // func NewFile(path string) *File {
 // 	bytes := getBytes(path)
-
+//
 // 	theFile := File{
 // 		Path:     path,
 // 		Contents: bytes,
 // 	}
-
+//
 // 	return &theFile
 // }
 
