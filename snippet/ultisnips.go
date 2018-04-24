@@ -25,21 +25,18 @@ func getBytes(file string) []byte {
 	return theBytes
 }
 
-// // File models a file and comes with some handy goodness.
+// File models a file and comes with some handy goodness.
 // type File struct {
 // 	Path     string
 // 	Contents []byte
 // }
 
-// // NewFile news up a new File.
+// NewFile news up a new File.
 // func NewFile(path string) *File {
-// 	bytes := getBytes(path)
-//
 // 	theFile := File{
 // 		Path:     path,
-// 		Contents: bytes,
+// 		Contents: getBytes(path),
 // 	}
-//
 // 	return &theFile
 // }
 
